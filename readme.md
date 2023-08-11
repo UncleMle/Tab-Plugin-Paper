@@ -1,0 +1,3 @@
+# Paper tablist plugin
+
+Tested Versions: 1.16 ...
